@@ -2,8 +2,8 @@
 Contributors: sudar 
 Tags: tweetbacks, Twitter, Tweet, comments
 Requires at least: 2.8
-Tested up to: 2.8.2
-Stable tag: 0.1
+Tested up to: 2.8.4
+Stable tag: 0.2
 	
 Helper Plugin for Tweetbacks Plugin to help it detect more tweets
 
@@ -24,7 +24,7 @@ This Plugin also lists the short urls detected by Tweetbacks and allows you to a
 *   Other [WordPress Plugins][3] by the same author
 
  [1]: http://sudarmuthu.com/wordpress/tweetbacks-helper
- [2]: http://sudarmuthu.com/blog
+ [2]: http://sudarmuthu.com/blog/2009/07/31/helper-plugin-for-tweetbacks.html
  [3]: http://sudarmuthu.com/wordpress
 	
 == Installation ==
@@ -43,6 +43,10 @@ Extract the zip file and just drop the contents in the wp-content/plugins/ direc
 
 *   first version
 
+###v0.2 (2009-09-29)
+
+*   Added support for pages
+
 ==Readme Generator== 
 
-This Readme file was generated using <a href = 'http://sudarmuthu.com/projects/wp-readme.php'>wp-readme</a>, which generates readme files for WordPress Plugins.
+This Readme file was generated using <a href = 'http://sudarmuthu.com/wordpress/wp-readme'>wp-readme</a>, which generates readme files for WordPress Plugins.

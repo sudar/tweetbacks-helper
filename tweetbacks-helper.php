@@ -4,7 +4,7 @@ Plugin Name: Tweetbacks Helper
 Plugin Script: tweetbacks-helper.php
 Plugin URI: http://sudarmuthu.com/wordpress/tweetbacks-helper
 Description: Helper Plugin for Tweetbacks Plugin to help it detect more tweets
-Version: 0.1
+Version: 0.2
 License: GPL
 Author: Sudar
 Author URI: http://sudarmuthu.com/
@@ -12,6 +12,7 @@ Text Domain: tweetbacks-helper
 
 === RELEASE NOTES ===
 2009-07-27 - v0.1 - first version
+2009-09-28 - v0.2 - Added support for pages
 
 */
 
@@ -168,8 +169,11 @@ class TweetbacksHelper {
 
     /* Adds a custom section to the "advanced" Post and Page edit screens */
     function add_custom_box() {
-        add_meta_box( 'sectionid', __( 'Tweetbacks Helper', 'tweetbacks-helper' ),
+        add_meta_box( 'tweetback-helper', __( 'Tweetbacks Helper', 'tweetbacks-helper' ),
                     array(&$this ,'inner_custom_box'), 'post', 'side' );
+
+        add_meta_box( 'tweetback-helper', __( 'Tweetbacks Helper', 'tweetbacks-helper' ),
+                    array(&$this ,'inner_custom_box'), 'page', 'side' );
     }
 
     /* Prints the inner fields for the custom post/page section */
