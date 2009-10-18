@@ -31,15 +31,14 @@ This Plugin also lists the short urls detected by Tweetbacks and allows you to a
 
 *   Belorussian (Thanks [FatCow][1])
 
- [1]: http://www.fatcow.com
-
 The pot file is available with the Plugin. If you are willing to do translation for the Plugin, use the pot file to create the .po files for your language and let me know. I will add it to the Plugin after giving credit to you.
 
 ### Support
 
-Support for the Plugin is available from the [Plugin's home page][1]. If you have any questions or suggestions, do leave a comment there.
+Support for the Plugin is available from the [Plugin's home page][2]. If you have any questions or suggestions, do leave a comment there.
 
- [1]: http://sudarmuthu.com/wordpress/tweetbacks-helper
+ [1]: http://www.fatcow.com
+ [2]: http://sudarmuthu.com/wordpress/tweetbacks-helper
 	
 == Installation ==
 
