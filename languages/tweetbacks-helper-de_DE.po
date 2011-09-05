@@ -1,0 +1,93 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Sudar
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tweetbacks Helper 0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/tweetbacks-helper\n"
+"POT-Creation-Date: 2009-07-31 10:37+0000\n"
+"PO-Revision-Date: 2011-08-22 23:37+0200\n"
+"Last-Translator: bohgdan zograf <bozograf@gmail.com>\n"
+"Language-Team: Roland Heide <roland.heide@ymail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#. #-#-#-#-#  tweetbacks-helper.pot (Tweetbacks Helper 0.1)  #-#-#-#-#
+#. Plugin Name of an extension
+#: tweetbacks-helper.php:61
+#: tweetbacks-helper.php:171
+msgid "Tweetbacks Helper"
+msgstr "Tweetbacks Helfer"
+
+#: tweetbacks-helper.php:92
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: tweetbacks-helper.php:104
+msgid "Tweetbacks Helper Settings"
+msgstr "Tweetbacks Helfer Einstellungen"
+
+#: tweetbacks-helper.php:115
+msgid "Built-in Tweetback scheduler"
+msgstr "eingebaute tweetback Scheduler"
+
+#: tweetbacks-helper.php:117
+#: tweetbacks-helper.php:125
+msgid "Enabled"
+msgstr "Aktiviert"
+
+#: tweetbacks-helper.php:118
+#: tweetbacks-helper.php:126
+msgid "Disabled"
+msgstr "Behinderte"
+
+#: tweetbacks-helper.php:123
+msgid "Manual cron scheduler"
+msgstr "Manuelle Cron Scheduler"
+
+#: tweetbacks-helper.php:127
+msgid "For manual cron scheduler to work, you should ping the following url from your crontab."
+msgstr "Für die manuelle Cron Scheduler zu arbeiten, sollten Sie die folgende URL aus Ihrer crontab ping."
+
+#: tweetbacks-helper.php:135
+msgid "Save Changes"
+msgstr "Speichern Sie die Änderungen"
+
+#: tweetbacks-helper.php:150
+msgid "plugin"
+msgstr "plugin"
+
+#: tweetbacks-helper.php:150
+msgid "Version"
+msgstr "Version"
+
+#: tweetbacks-helper.php:150
+msgid "by"
+msgstr "durch"
+
+#: tweetbacks-helper.php:203
+msgid "Add another"
+msgstr "Fügen Sie ein weiteres"
+
+#. Plugin URI of an extension
+msgid "http://sudarmuthu.com/wordpress/tweetbacks-helper"
+msgstr "http://sudarmuthu.com/wordpress/tweetbacks-helper"
+
+#. Description of an extension
+msgid "Helper Plugin for Tweetbacks Plugin to help it detect more tweets"
+msgstr "Helper Plugin für Tweetbacks Plugin, um sie zu entdecken mehr Tweets"
+
+#. Author of an extension
+msgid "Sudar"
+msgstr "Sudar"
+
+#. Author URI of an extension
+msgid "http://sudarmuthu.com/"
+msgstr "http://sudarmuthu.com/"
+

@@ -4,9 +4,10 @@ Plugin Name: Tweetbacks Helper
 Plugin Script: tweetbacks-helper.php
 Plugin URI: http://sudarmuthu.com/wordpress/tweetbacks-helper
 Description: Helper Plugin for Tweetbacks Plugin to help it detect more tweets
-Version: 0.3
+Version: 0.4
 License: GPL
 Author: Sudar
+Donate Link: http://sudarmuthu.com/if-you-wanna-thank-me
 Author URI: http://sudarmuthu.com/
 Text Domain: tweetbacks-helper
 
@@ -14,6 +15,7 @@ Text Domain: tweetbacks-helper
 2009-07-27 - v0.1 - first version
 2009-09-28 - v0.2 - Added support for pages
 2009-10-18 - v0.3 - Added translation support for Belorussian (Thanks FatCow <http://www.fatcow.com>)
+2011-09-05 - v0.4 - Added translation support for German and Lithuanian
 
 */
 
@@ -32,10 +34,10 @@ class TweetbacksHelper {
 
         // Register hooks
         add_action( 'admin_menu', array(&$this, 'register_settings_page') );
-        add_action( 'admin_init', array(&$this, 'add_settings') );
+        add_action('admin_init', array(&$this, 'add_settings') );
 
         /* Use the admin_menu action to define the custom boxes */
-        add_action( 'admin_menu', array(&$this, 'add_custom_box') );
+        add_action('admin_menu', array(&$this, 'add_custom_box') );
 
         // Add some JavaScript which is needed
         add_action('admin_head', array(&$this, 'add_scripts'));
