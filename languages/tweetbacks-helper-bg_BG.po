@@ -1,0 +1,93 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Sudar
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tweetbacks Helper 0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/tweetbacks-helper\n"
+"POT-Creation-Date: 2009-07-31 10:37+0000\n"
+"PO-Revision-Date: 2011-08-31 15:01+0200\n"
+"Last-Translator: Тарас Данилюк <nikman851@gmail.com>\n"
+"Language-Team: Dimitar Kolevski <dimitar.kolevski@mail.bg>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Bulgarian\n"
+"X-Poedit-Country: BULGARIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#. #-#-#-#-#  tweetbacks-helper.pot (Tweetbacks Helper 0.1)  #-#-#-#-#
+#. Plugin Name of an extension
+#: tweetbacks-helper.php:61
+#: tweetbacks-helper.php:171
+msgid "Tweetbacks Helper"
+msgstr "Tweetbacks Helper"
+
+#: tweetbacks-helper.php:92
+msgid "Settings"
+msgstr "Настройки"
+
+#: tweetbacks-helper.php:104
+msgid "Tweetbacks Helper Settings"
+msgstr "Tweetbacks Helper Настройки"
+
+#: tweetbacks-helper.php:115
+msgid "Built-in Tweetback scheduler"
+msgstr "Вграден в Tweetback Scheduler"
+
+#: tweetbacks-helper.php:117
+#: tweetbacks-helper.php:125
+msgid "Enabled"
+msgstr "Enabled"
+
+#: tweetbacks-helper.php:118
+#: tweetbacks-helper.php:126
+msgid "Disabled"
+msgstr "За хора с увреждания"
+
+#: tweetbacks-helper.php:123
+msgid "Manual cron scheduler"
+msgstr "Ръчна Cron Scheduler"
+
+#: tweetbacks-helper.php:127
+msgid "For manual cron scheduler to work, you should ping the following url from your crontab."
+msgstr "За ръчно Cron Scheduler да работи, трябва да пинг следния URL адрес от вашия кронтаб."
+
+#: tweetbacks-helper.php:135
+msgid "Save Changes"
+msgstr "Запазване на промените"
+
+#: tweetbacks-helper.php:150
+msgid "plugin"
+msgstr "плъгин"
+
+#: tweetbacks-helper.php:150
+msgid "Version"
+msgstr "версия"
+
+#: tweetbacks-helper.php:150
+msgid "by"
+msgstr "от"
+
+#: tweetbacks-helper.php:203
+msgid "Add another"
+msgstr "Добавяне на друг"
+
+#. Plugin URI of an extension
+msgid "http://sudarmuthu.com/wordpress/tweetbacks-helper"
+msgstr "http://sudarmuthu.com/wordpress/tweetbacks-helper"
+
+#. Description of an extension
+msgid "Helper Plugin for Tweetbacks Plugin to help it detect more tweets"
+msgstr "помощник плъгин за Tweetbacks плъгини, за да помогне да го открие по-туитове"
+
+#. Author of an extension
+msgid "Sudar"
+msgstr "Sudar"
+
+#. Author URI of an extension
+msgid "http://sudarmuthu.com/"
+msgstr "http://sudarmuthu.com/"
+

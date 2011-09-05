@@ -32,6 +32,7 @@ This Plugin also lists the short urls detected by Tweetbacks and allows you to a
 *   Belorussian (Thanks [FatCow][1])
 *   German (Thanks Volunteer team of [Design Contest][3])
 *   Lithuanian (Thanks Nata of [Web Hub][4])
+*   Bulgarian (Thanks Dimitar Kolevski of [Web Geek][5])
 
 The pot file is available with the Plugin. If you are willing to do translation for the Plugin, use the pot file to create the .po files for your language and let me know. I will add it to the Plugin after giving credit to you.
 
@@ -43,6 +44,7 @@ Support for the Plugin is available from the [Plugin's home page][2]. If you hav
  [2]: http://sudarmuthu.com/wordpress/tweetbacks-helper
  [3]: http://www.designcontest.com/
  [4]: http://www.webhostinghub.com/
+ [5]: http://webhostinggeeks.com/
 	
 == Installation ==
 
@@ -71,7 +73,7 @@ Extract the zip file and just drop the contents in the wp-content/plugins/ direc
 
 ###v0.4 (2011-09-05)
 
-*   Added translation support for German and Lithuanian
+*   Added translation support for German, Lithuanian and Bulgarian
 
 ==Readme Generator== 
 

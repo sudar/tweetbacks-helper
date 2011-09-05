@@ -15,7 +15,7 @@ Text Domain: tweetbacks-helper
 2009-07-27 - v0.1 - first version
 2009-09-28 - v0.2 - Added support for pages
 2009-10-18 - v0.3 - Added translation support for Belorussian (Thanks FatCow <http://www.fatcow.com>)
-2011-09-05 - v0.4 - Added translation support for German and Lithuanian
+2011-09-05 - v0.4 - Added translation support for German, Lithuanian and Bulgarian 
 
 */
 
