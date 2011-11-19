@@ -4,7 +4,7 @@ Plugin Name: Tweetbacks Helper
 Plugin Script: tweetbacks-helper.php
 Plugin URI: http://sudarmuthu.com/wordpress/tweetbacks-helper
 Description: Helper Plugin for Tweetbacks Plugin to help it detect more tweets
-Version: 0.4
+Version: 0.5
 License: GPL
 Author: Sudar
 Donate Link: http://sudarmuthu.com/if-you-wanna-thank-me
@@ -15,8 +15,24 @@ Text Domain: tweetbacks-helper
 2009-07-27 - v0.1 - first version
 2009-09-28 - v0.2 - Added support for pages
 2009-10-18 - v0.3 - Added translation support for Belorussian (Thanks FatCow <http://www.fatcow.com>)
-2011-09-05 - v0.4 - Added translation support for German, Lithuanian and Bulgarian 
+2011-09-05 - v0.4 - Added translation support for German, Lithuanian and Bulgarian
+2011-11-19 - v0.5 - Added Spanish Translations
 
+*/
+/*  Copyright 2010  Sudar Muthu  (email : sudar@sudarmuthu.com)
+
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License, version 2, as
+    published by the Free Software Foundation.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program; if not, write to the Free Software
+    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
 
 /**
