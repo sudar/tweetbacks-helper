@@ -1,0 +1,91 @@
+# Copyright (C) YEAR Sudar
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Tweetbacks Helper 0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/tweetbacks-helper\n"
+"POT-Creation-Date: 2009-07-31 10:37+0000\n"
+"PO-Revision-Date: 2012-03-19 18:12+0200\n"
+"X-Poedit-Language: Romanian\n"
+"X-Poedit-Country: Romania\n"
+"Language-Team: Web Geeks\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. #-#-#-#-#  tweetbacks-helper.pot (Tweetbacks Helper 0.1)  #-#-#-#-#
+#. Plugin Name of an extension
+#: tweetbacks-helper.php:61
+#: tweetbacks-helper.php:171
+msgid "Tweetbacks Helper"
+msgstr "TweetBacks Helper"
+
+#: tweetbacks-helper.php:92
+msgid "Settings"
+msgstr "SetÄri"
+
+#: tweetbacks-helper.php:104
+msgid "Tweetbacks Helper Settings"
+msgstr "TweetBacks Helper setÄrile"
+
+#: tweetbacks-helper.php:115
+msgid "Built-in Tweetback scheduler"
+msgstr "ClÄdire-Ã®nÄuntru Tweetback programator"
+
+#: tweetbacks-helper.php:117
+#: tweetbacks-helper.php:125
+msgid "Enabled"
+msgstr "Activat"
+
+#: tweetbacks-helper.php:118
+#: tweetbacks-helper.php:126
+msgid "Disabled"
+msgstr "Cu handicap"
+
+#: tweetbacks-helper.php:123
+msgid "Manual cron scheduler"
+msgstr "Cron manualul programatorului de lucrÄri"
+
+#: tweetbacks-helper.php:127
+msgid "For manual cron scheduler to work, you should ping the following url from your crontab."
+msgstr "Pentru cron manualul de Scheduler pentru a lucra, trebuie să ping următoarele URL-ul de la crontab dumneavoastră."
+
+#: tweetbacks-helper.php:135
+msgid "Save Changes"
+msgstr "SalvaÅ£i modificÄrile"
+
+#: tweetbacks-helper.php:150
+msgid "plugin"
+msgstr "plugin-ul"
+
+#: tweetbacks-helper.php:150
+msgid "Version"
+msgstr "Versiunea"
+
+#: tweetbacks-helper.php:150
+msgid "by"
+msgstr "de"
+
+#: tweetbacks-helper.php:203
+msgid "Add another"
+msgstr "AdÄugaÅ£i un alt"
+
+#. Plugin URI of an extension
+msgid "http://sudarmuthu.com/wordpress/tweetbacks-helper"
+msgstr "http://sudarmuthu.com/Wordpress/TweetBacks-Helper"
+
+#. Description of an extension
+msgid "Helper Plugin for Tweetbacks Plugin to help it detect more tweets"
+msgstr "Plugin de ajutor pentru Tweetbacks plug-in pentru a ajuta-l detecta tweets mai multe"
+
+#. Author of an extension
+msgid "Sudar"
+msgstr "Sudar"
+
+#. Author URI of an extension
+msgid "http://sudarmuthu.com/"
+msgstr "http://sudarmuthu.com/"
+

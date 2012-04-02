@@ -3,8 +3,8 @@ Contributors: sudar
 Tags: tweetbacks, Twitter, Tweet, comments
 Requires at least: 2.8
 Donate Link: http://sudarmuthu.com/if-you-wanna-thank-me
-Tested up to: 3.2.1
-Stable tag: 0.5
+Tested up to: 3.3.1
+Stable tag: 0.6
 	
 Helper Plugin for Tweetbacks Plugin to help it detect more tweets
 
@@ -35,6 +35,7 @@ This Plugin also lists the short urls detected by Tweetbacks and allows you to a
 *   Lithuanian (Thanks Nata of [Web Hub][4])
 *   Bulgarian (Thanks Dimitar Kolevski of [Web Geek][5])
 *   Spanish (Thanks Mike Arias of [InMotion Hosting][6])
+*   Romanian (Thanks Alexander Ovsov of [Web Hosting Geeks][7])
 
 The pot file is available with the Plugin. If you are willing to do translation for the Plugin, use the pot file to create the .po files for your language and let me know. I will add it to the Plugin after giving credit to you.
 
@@ -48,6 +49,7 @@ Support for the Plugin is available from the [Plugin's home page][2]. If you hav
  [4]: http://www.webhostinghub.com/
  [5]: http://webhostinggeeks.com/
  [6]: http://www.inmotionhosting.com/
+ [7]: http://webhostinggeeks.com/
 	
 == Installation ==
 
@@ -81,6 +83,10 @@ Extract the zip file and just drop the contents in the wp-content/plugins/ direc
 ###v0.5 (2011-11-19)
 
 *   Added Spanish Translations
+
+###v0.6 (2012-04-02)
+
+*   Added Romanian Translations
 
 ==Readme Generator== 
 
