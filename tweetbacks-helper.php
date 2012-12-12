@@ -4,7 +4,7 @@ Plugin Name: Tweetbacks Helper
 Plugin Script: tweetbacks-helper.php
 Plugin URI: http://sudarmuthu.com/wordpress/tweetbacks-helper
 Description: Helper Plugin for Tweetbacks Plugin to help it detect more tweets
-Version: 0.8
+Version: 0.9
 License: GPL
 Author: Sudar
 Donate Link: http://sudarmuthu.com/if-you-wanna-thank-me
@@ -22,6 +22,8 @@ Text Domain: tweetbacks-helper
                   - Added Hindi translations
 2012-11-02 - v0.8 (Dev time: 0.5 hour)
                   - Added Irish translations
+2012-12-12 - v0.9 (Dev time: 0.5 hour)
+                  - Added Slovak translations
 
 */
 /*  Copyright 2010  Sudar Muthu  (email : sudar@sudarmuthu.com)
