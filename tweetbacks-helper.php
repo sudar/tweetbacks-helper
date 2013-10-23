@@ -12,18 +12,7 @@ Author URI: http://sudarmuthu.com/
 Text Domain: tweetbacks-helper
 
 === RELEASE NOTES ===
-2009-07-27 - v0.1 - first version
-2009-09-28 - v0.2 - Added support for pages
-2009-10-18 - v0.3 - Added translation support for Belorussian (Thanks FatCow <http://www.fatcow.com>)
-2011-09-05 - v0.4 - Added translation support for German, Lithuanian and Bulgarian
-2011-11-19 - v0.5 - Added Spanish Translations
-2012-04-02 - v0.6 - Added Romanian Translations
-2012-07-23 - v0.7 (Dev time: 0.5 hour)
-                  - Added Hindi translations
-2012-11-02 - v0.8 (Dev time: 0.5 hour)
-                  - Added Irish translations
-2012-12-12 - v0.9 (Dev time: 0.5 hour)
-                  - Added Slovak translations
+Checkout readme for release notes
 
 */
 /*  Copyright 2010  Sudar Muthu  (email : sudar@sudarmuthu.com)
