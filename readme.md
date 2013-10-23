@@ -1,10 +1,10 @@
 # Tweetbacks Helper #
-**Contributors:** sudar 
-**Tags:** tweetbacks, Twitter, Tweet, comments
-**Requires at least:** 2.8
-**Donate Link:** http://sudarmuthu.com/if-you-wanna-thank-me
-**Tested up to:** 3.5
-**Stable tag:** 0.9
+**Contributors:** sudar  
+**Tags:** tweetbacks, Twitter, Tweet, comments  
+**Requires at least:** 2.8  
+**Donate Link:** http://sudarmuthu.com/if-you-wanna-thank-me  
+**Tested up to:** 3.6.1  
+**Stable tag:** 0.9.1  
 	
 Helper Plugin for Tweetbacks Plugin to help it detect more tweets
 
@@ -24,36 +24,29 @@ This Plugin also lists the short urls detected by Tweetbacks and allows you to a
 *   [Why this Plugin is needed][2]
 *   Other [WordPress Plugins][3] by the same author
 
- [1]: http://sudarmuthu.com/wordpress/tweetbacks-helper
- [2]: http://sudarmuthu.com/blog/2009/07/31/helper-plugin-for-tweetbacks.html
- [3]: http://sudarmuthu.com/wordpress
-
 ### Translation
 
-*   Belorussian (Thanks [FatCow][1])
-*   German (Thanks Volunteer team of [Design Contest][3])
-*   Lithuanian (Thanks Nata of [Web Hub][4])
-*   Bulgarian (Thanks Dimitar Kolevski of [Web Geek][5])
-*   Spanish (Thanks Mike Arias of [InMotion Hosting][6])
-*   Romanian (Thanks Alexander Ovsov of [Web Hosting Geeks][7])
+*   Belorussian (Thanks FatCow)
+*   German (Thanks Volunteer team of Design Contest)
+*   Lithuanian (Thanks Nata of Web Hub)
+*   Bulgarian (Thanks Dimitar Kolevski of Web Geek)
+*   Spanish (Thanks Mike Arias of InMotion Hosting)
+*   Romanian (Thanks Alexander Ovsov of Web Hosting Geeks)
 *   Hindi (Thanks Love Chandel)
 *   Irish (Thanks Vikas Arora)
 *   Slovak (Thanks Branco Radenovich)
+*   Serbo-Croatian (Thanks Borisa Djuraskovic)
 
 The pot file is available with the Plugin. If you are willing to do translation for the Plugin, use the pot file to create the .po files for your language and let me know. I will add it to the Plugin after giving credit to you.
 
 ### Support
 
-Support for the Plugin is available from the [Plugin's home page][2]. If you have any questions or suggestions, do leave a comment there.
+Support for the Plugin is available from the [Plugin's home page][1]. If you have any questions or suggestions, do leave a comment there.
 
- [1]: http://www.fatcow.com
- [2]: http://sudarmuthu.com/wordpress/tweetbacks-helper
- [3]: http://www.designcontest.com/
- [4]: http://www.webhostinghub.com/
- [5]: http://webhostinggeeks.com/
- [6]: http://www.inmotionhosting.com/
- [7]: http://webhostinggeeks.com/
-	
+ [1]: http://sudarmuthu.com/wordpress/tweetbacks-helper
+ [2]: http://sudarmuthu.com/blog/2009/07/31/helper-plugin-for-tweetbacks.html
+ [3]: http://sudarmuthu.com/wordpress
+
 ## Installation ##
 
 Extract the zip file and just drop the contents in the wp-content/plugins/ directory of your WordPress installation and then activate the Plugin from Plugins page. This Plugin needs the [Tweetbacks Plugin by Yoast][1] to work.

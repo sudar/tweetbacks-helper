@@ -1,5 +1,8 @@
 ## Changelog ##
 
+###v0.9.1 (2013-10-23) (Dev time: 0.5 hour)
+- Add translation support for Serbo-Croatian language
+
 ###v0.9 (2012-12-12) (Dev time: 0.5 hour)
 - Added translation support for Slovak language
 
